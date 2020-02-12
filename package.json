@@ -1,0 +1,8 @@
+{
+  "name": "Mail-templates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PidMoon/Mail-templates.git",
+  "author": "PidMoon <pidmoon@gmail.com>",
+  "license": "MIT"
+}
