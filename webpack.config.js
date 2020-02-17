@@ -29,7 +29,11 @@ module.exports = {
             },
             {
                 test: /\.png$/,
-                loader: 'file-loader'
+                loader: 'file-loader',
+                options: {
+                    name: '[name].[ext]',
+                    outputPath: 'assets/images'
+                },
             }
         ]
     },
